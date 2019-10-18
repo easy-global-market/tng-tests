@@ -33,9 +33,9 @@ phases:
         - key: PORT
           value: '1883'
         - key: CLIENTS
-          value: '100'
+          value: '10'
         - key: COUNT
-          value: '100'
+          value: '20'
         - key: SIZE
           value: '100'  
         - key: QOS
